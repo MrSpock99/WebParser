@@ -8,11 +8,20 @@
 
 В папке WebParser\src\pages , каждый файл - html страница, так же там имеется файл index
 
-# Tokenizer and Lemmatizer
+# Tokenizer, Lemmatizer, Inverted index and Boolean search
 
-Для запуска необходимо открыть файл src\main\python\TokenizerAndLemmatizer.ipynb в Jupyter
+Для запуска необходимо открыть файл src\main\python\BooleanSearch.ipynb в Jupyter
 При первом запуске необходимо загрузить дополнительные модули, описанные в файле
 
-# Результат работы программы
+# Список слов
 
-Файлы words.txt и lemmatized_tokens.txt в этой же папке
+Файл src\main\python\words.txt
+
+# Список лемматизированных токенов
+
+Файл src\main\python\lemmatized_tokens.txt
+
+# Инвертированный список терминов
+
+Файл src\main\python\inverted_index.txt
+
