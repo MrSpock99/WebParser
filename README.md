@@ -8,10 +8,10 @@
 
 В папке WebParser\src\pages , каждый файл - html страница, так же там имеется файл index
 
-# Tokenizer, Lemmatizer, Inverted index, Boolean search and TF-IDF
+# Tokenizer, Lemmatizer, Inverted index, Boolean search, TF-IDF and Vector space model
 
 Для запуска необходимо открыть файл src\main\python\BooleanSearch.ipynb в Jupyter
-При первом запуске необходимо загрузить дополнительные модули, описанные в файле
+При первом запуске необходимо загрузить дополнительные модули, описанные в файле, и изменить абсолютные пути
 
 # Список слов
 
@@ -29,4 +29,3 @@
 
 Файл src\main\python\tf_idf.txt
 Формат строк: <термин><пробел><номер документа><пробел>\<idf\><пробел>\<tf-idf\><\n>
-
